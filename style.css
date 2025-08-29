@@ -1,0 +1,29 @@
+/* Basic styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  background: #0077cc;
+  color: #fff;
+}
+
+button:hover {
+  background: #005fa3;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
